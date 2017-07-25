@@ -1,5 +1,5 @@
 # CountDownUtil
-![image](https://github.com/program008/CountDownUtil/blob/master/screenshots/device-2017-07-25-161747.png?raw=true)
+![image](http://preview.quanjing.com/culturarm001/35kmm0023rm.jpg)
 
 两种实现倒计时的方法
 1，rxjava
