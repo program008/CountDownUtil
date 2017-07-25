@@ -1,5 +1,6 @@
 #两种实现倒计时的方法
-![image](http://upload-images.jianshu.io/upload_images/449878-89fa5f9691fa5bca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![image](http://a2.att.hudong.com/50/09/01300000098168135841092357166.jpg)
+![image］(http://upload-images.jianshu.io/upload_images/449878-89fa5f9691fa5bca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 1，rxjava
   public static Observable<Integer> countdown(int time) {
         if (time < 0) time = 0;
