@@ -74,7 +74,7 @@
                     }
 
   以上两种倒计时的时间差都是毫秒级的，区别在于第二种不能取到最后一秒的，这个在onFinish处理就好
-
+  ![image] ()
   ![image](http://a2.att.hudong.com/50/09/01300000098168135841092357166.jpg)
   ![image］(http://upload-images.jianshu.io/upload_images/449878-89fa5f9691fa5bca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
