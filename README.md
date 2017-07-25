@@ -1,5 +1,5 @@
-# CountDownUtil
-两种实现倒计时的方法
+#两种实现倒计时的方法
+![iamge](http://upload-images.jianshu.io/upload_images/449878-89fa5f9691fa5bca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 1，rxjava
   public static Observable<Integer> countdown(int time) {
         if (time < 0) time = 0;
