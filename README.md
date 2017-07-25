@@ -1,5 +1,4 @@
 # CountDownUtil
-![image](http://a2.att.hudong.com/50/09/01300000098168135841092357166.jpg)
 ![image](http://preview.quanjing.com/culturarm001/35kmm0023rm.jpg)
 
 两种实现倒计时的方法
