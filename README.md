@@ -1,4 +1,6 @@
 # CountDownUtil
+![image](http://a2.att.hudong.com/50/09/01300000098168135841092357166.jpg)
+ 
 两种实现倒计时的方法
 1，rxjava
   public static Observable<Integer> countdown(int time) {
